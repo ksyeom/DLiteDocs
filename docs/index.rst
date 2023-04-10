@@ -11,13 +11,7 @@ Welcome to DLite SDK documentation
    :caption: Contents:
 
    md/1_About/About.md
-   md/1_About/01_Overview.md
-   md/1_About/02_Client.md
-   md/1_About/03_Server.md
-   md/1_About/04_FAQs.md
-
    md/2_Client/Client.md
-
    md/3_Server/Server.md
 
 

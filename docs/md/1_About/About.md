@@ -1,6 +1,5 @@
-# About DLite
+# About
+DLite - Deep Learning Inference Toolkit for Edge
 
 ## Overview
-## Client
-## Server
-## FAQs
+

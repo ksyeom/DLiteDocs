@@ -13,6 +13,7 @@ Welcome to DLite SDK documentation
    md/1_About/About.md
    md/2_Client/Client.md
    md/3_Server/Server.md
+   md/4_FAQs/FAQs.md
 
 
 Indices and tables

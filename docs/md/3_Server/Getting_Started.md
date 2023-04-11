@@ -21,7 +21,7 @@
 
 ## Service Port
 | 구분 | PORT |
-|-|-|-|
+|-|-|
 | (GPU) Inference API   | 8080 |
 | (CPU) Inference API   | 8081 |
 | Matching API          | 8082 |

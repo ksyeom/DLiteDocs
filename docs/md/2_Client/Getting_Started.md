@@ -1,27 +1,74 @@
 # Getting Started
 
-## SDK 설치
-
-### 리눅스
+## Windows
+### Prerequisites
+```
 * 
 * 
-
-### 윈도우즈
-*
+```
+### SDK Installation
+```bash
+$  
+$  
+```
+### Hello DLite
+```
 * 
-
-## Hello DLiteApp
-
-### C++
 * 
-*
+```
 
-### Python
-*
-*
-*
+## Ubuntu
+### Prerequisites
+```
+* 
+* 
+```
+### SDK Installation
+```bash
+$  
+$  
+```
+### Hello DLite
+```
+* 
+* 
+```
 
-### C#
-*
-*
-*
+## ARM
+```
+* TBD 
+```
+
+## Mobile (Android)
+### Prerequisites
+```
+* 
+* 
+```
+### SDK Installation
+```bash
+$  
+$  
+```
+### Hello DLite
+```
+* 
+* 
+```
+
+## Mobile (iOS)
+### Prerequisites
+```
+* 
+* 
+```
+### SDK Installation
+```bash
+$  
+$  
+```
+### Hello DLite
+```
+* 
+* 
+```

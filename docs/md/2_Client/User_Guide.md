@@ -1,22 +1,95 @@
 # User Guide
 
 ## Features
-* Face Algorithm (Detection, Feature-Extraction, Matching)
+* Face Detection
+* Face Feature-Extraction
+* Face Matching
 * Face Attribute (Sunglass, Hat)
-* 라이브니스 (Depth 기반)
-* HeadPose (yaw/pitch/roll)
-* Mask Confidence
-* Image Quality Check (Blur)
-* Image Quality Check (Frontal)
+* Face HeadPose (yaw/pitch/roll)
+* Face Landmark Detection
+* Covid Mask Detection
+* Image Quality Check (Blur, Frontal)
+* Liveness (Depth-Based)
+* IDCard Verification
 
-## SDK 환경설정
+## Windows
+### 환경설정
+```
 *
 *
+```
 
-## SDK Build
-*
-*
+### SDK Build
+```
+$
+$
+```
 
-## API 사용방법
+### API 사용방법
+```
 *
 *
+```
+
+
+## Ubuntu
+### 환경설정
+```
+*
+*
+```
+
+### SDK Build
+```
+$
+$
+```
+
+### API 사용방법
+```
+*
+*
+```
+
+## ARM
+```
+* TBD
+```
+
+## Mobile (Android)
+### 환경설정
+```
+*
+*
+```
+
+### SDK Build
+```
+$
+$
+```
+
+### API 사용방법
+```
+*
+*
+```
+
+## Mobile (iOS)
+### 환경설정
+```
+*
+*
+```
+
+### SDK Build
+```
+$
+$
+```
+
+### API 사용방법
+```
+*
+*
+```

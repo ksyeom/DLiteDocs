@@ -12,4 +12,4 @@
 * X-RaySDK: X-Ray 수화물 사진에서 위험물질을 검출하는 추론 엔진
 
 ## 개념도
-<img src="../../_static/images/1_About/SDK_Type.jpg" width="100%" height="100%">
+<img src="../../_static/images/1_About/CUSDK_Type.jpg" width="100%" height="100%">

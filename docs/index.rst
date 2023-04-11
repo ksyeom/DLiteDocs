@@ -33,7 +33,7 @@ Welcome to DLite SDK documentation
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 🎁 Server
+   :caption: ⚾ Server
 
    /md/3_Server/Getting_Started.md
    /md/3_Server/User_Guide.md
@@ -45,12 +45,13 @@ Welcome to DLite SDK documentation
    /md/3_Server/API_Reference.md
 
 
-DLite와 함께 즐거운 세상과 만나 보세요!
+DLite와 함께 즐거운 세상을 만나 보세요!
 
+..
+   Indices and tables
+   ==================
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
+..

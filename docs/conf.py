@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'DLiteDocs'
-copyright = '2023, Cubox AILab AI2Team'
-author = 'Cubox AILab AI2Team'
+copyright = '2023, Cubox AILab'
+author = 'Cubox AILab'
 release = '0.1.0'
 
 # -- General configuration ---------------------------------------------------

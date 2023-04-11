@@ -1,1 +1,6 @@
 # Administration Guide
+
+## Configuration
+*
+*
+*

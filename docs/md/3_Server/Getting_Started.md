@@ -16,11 +16,11 @@
 |--------------------------|----------------------------------------------|
 | Docker                   | v19.03 이상                                  |
 | Docker-Compose           | v1.29.2 이상                                 |
-| NVIDIA-Container-Toolkit | Docker 19.03 이상에서 GPU를 사용하기 위해 필요 |
+| NVIDIA-Container-Toolkit | 컨테이너에서 GPU 사용을 위해 필요한 패키지      |
 
 
 ## Service Port
-| 구분 | PORT | Description |
+| 구분 | PORT |
 |-|-|-|
 | (GPU) Inference API   | 8080 |
 | (CPU) Inference API   | 8081 |

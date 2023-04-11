@@ -23,5 +23,5 @@ Face Detection과 Face Feature Extraction의 디바이스별 추론속도 확인
   * Detection: 13 (ms)
   * Feature-Extraction: 55 (ms)
   * Detection + Feature-Extraction: 68 (ms)
-# FPS
+* FPS
   * 14 (fps)

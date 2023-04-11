@@ -12,4 +12,4 @@ DLite (Deep Learning Inference Toolkit for Edge)는,
 * CUXraySDK: Xray 수화물 사진에서 위험물질 검출 추론 엔진
 
 ## 개념도
-<img src="Images/CUSDK_Type.jpg" width="75%" height="75%">
+<img src="../../images/CUSDK_Type.jpg" width="75%" height="75%">

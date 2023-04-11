@@ -1,4 +1,4 @@
-# Release Notes
+# Release
 
 ## v1.9.15
 *

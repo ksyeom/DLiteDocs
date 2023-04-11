@@ -18,14 +18,12 @@ Concurrency=100
 |                  |        | /feature (+detect) | 405 | 587   | 620   |
 
 ### Latency
-* 얼굴을 포함하는 이미지로부터 특징점 추출 (전/후처리 포함)
-  * Detect (320x320)
-  * Align
-  * Feature-Extraction (112x112)
-* RPS (Request Per Second) = Throughput
-  * 초당 특징점 추출 이미지 500건 이상 (A10 기준)
-  * A10은, T4 대비 1.5배 가량 성능 우위
-  * GPU 2개는, 1개 대비 1.5배 가량 성능 우위
+```
+* 처리과정: Detect (320x320) + Align + Feature-Extraction (112x112)
+* 초당 특징점 추출 이미지 500건 이상 (A10 기준)
+* A10은, T4 대비 1.5배 가량 성능 우위
+* GPU 2개는, 1개 대비 1.5배 가량 성능 우위
+```
 
 <img src="../../_static/images/3_Server/Inference_GPU_Latency.jpg" width="100%" height="100%">
 
@@ -43,7 +41,7 @@ Concurrency=50
 |      |       | /feature-only      | 78  | 615 |
 |      |       | /feature (+detect) | 62  | 767 |
 
-### Matching
+## Matching
 ```
 * Intel(R) Xeon(R) Gold 5218R CPU @ 2.10GHz
 * Gallery= 100K | 250K | 500K

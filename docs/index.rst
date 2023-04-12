@@ -33,7 +33,7 @@ Welcome to DLite SDK documentation
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: ⚾ Server
+   :caption: 🎁 Server
 
    /md/3_Server/Getting_Started.md
    /md/3_Server/User_Guide.md

@@ -1,7 +1,11 @@
 # Example
 
 ## Python
-### FaceSample
+### FaceSample (CPU)
+### FaceSample (GPU)
+### MatchingSample
 
 ## C++
-### FaceSample
+### FaceSample (CPU)
+### FaceSample (GPU)
+### MatchingSample

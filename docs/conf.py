@@ -21,7 +21,7 @@ extensions = [
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
-
+suppress_warnings = ["myst.xref_missing"]
 
 
 # -- Options for HTML output -------------------------------------------------
